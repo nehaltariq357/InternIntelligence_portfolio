@@ -1,1 +1,1 @@
-deployed url = https://portfolio-3ndw.vercel.app/
+deployed url = https://portfolio1-dun-seven.vercel.app/
