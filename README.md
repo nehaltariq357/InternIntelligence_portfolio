@@ -1,0 +1,1 @@
+deployed url = https://portfolio-3ndw.vercel.app/
